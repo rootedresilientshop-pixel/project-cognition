@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "createdAt": "2025-01-15T10:30:00Z",
+  "memoryFormat": "markdown",
+  "failureTracking": true,
+  "autoInject": true,
+  "maxRecentFailures": 10,
+  "enablePreflightChecks": true,
+  "customInstructions": ""
+}
