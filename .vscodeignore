@@ -1,0 +1,16 @@
+.git
+.gitignore
+.vscode
+out/test
+src
+*.test.ts
+*.test.js
+tsconfig.json
+vsc-extension-quickstart.md
+**/*.map
+**/*.ts
+package-lock.json
+npm-debug.log*
+TEST*.md
+MARKETPLACE*.md
+CHANGELOG.md
