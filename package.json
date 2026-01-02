@@ -3,19 +3,19 @@
   "displayName": "Project Cognition",
   "description": "Stop AI pair programmers from circular debugging. Preserve project intent, decisions, and failed attempts in Git. Inject memory into Claude, ChatGPT, Copilot, or any AI tool.",
   "version": "0.2.0",
-  "publisher": "cognition",
+  "publisher": "DigitalForgeAI",
   "license": "MIT",
   "author": {
     "name": "Project Cognition Team",
-    "url": "https://github.com/your-username/project-cognition"
+    "url": "https://github.com/rootedresilientshop-pixel/project-cognition"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/project-cognition"
+    "url": "https://github.com/rootedresilientshop-pixel/project-cognition"
   },
-  "homepage": "https://github.com/your-username/project-cognition",
+  "homepage": "https://github.com/rootedresilientshop-pixel/project-cognition",
   "bugs": {
-    "url": "https://github.com/your-username/project-cognition/issues"
+    "url": "https://github.com/rootedresilientshop-pixel/project-cognition/issues"
   },
   "engines": {
     "vscode": "^1.80.0"
