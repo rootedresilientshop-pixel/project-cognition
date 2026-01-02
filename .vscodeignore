@@ -1,6 +1,7 @@
 .git
 .gitignore
 .vscode
+.env.local
 out/test
 src
 *.test.ts
@@ -14,3 +15,12 @@ npm-debug.log*
 TEST*.md
 MARKETPLACE*.md
 CHANGELOG.md
+BUILD*.md
+COMPLETION*.md
+DEVELOPMENT*.md
+FIRST*.md
+MVP*.md
+PROJECT_COGNITION*.md
+QUICK*.md
+START*.md
+project-cognition.code-workspace
