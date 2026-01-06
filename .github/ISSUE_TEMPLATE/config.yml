@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a Question
+    url: https://github.com/rootedresilientshop-pixel/project-cognition/discussions/new/choose
+    about: Got a question? Ask in Discussions instead of opening an issue
+  - name: Report a Problem
+    url: https://github.com/rootedresilientshop-pixel/project-cognition/discussions/new/choose
+    about: Experiencing issues? Share in Discussions to get help from the community
