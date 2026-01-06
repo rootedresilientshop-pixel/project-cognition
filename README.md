@@ -1,5 +1,11 @@
 # Project Cognition
 
+[![VS Code Extension](https://img.shields.io/badge/VS%20Code-Extension-blue?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=DigitalForgeAI.project-cognition)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Tests Passing](https://img.shields.io/badge/Tests-6%2F6%20Passing-brightgreen)](src/__tests__)
+[![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-brightgreen)](package.json)
+[![Latest Release](https://img.shields.io/badge/Version-0.2.0-blue)](CHANGELOG.md)
+
 > Stop your AI pair programmer from repeating the same debugging mistakes. Preserve your project's intent, decisions, and failed attempts in Git—then inject that memory into Claude, Copilot, ChatGPT, or any AI tool.
 
 **Problem**: AI coding assistants forget context between conversations. They suggest solutions you already rejected, debug bugs you've already fixed, and ignore architectural decisions you've made.
